@@ -1,0 +1,42 @@
+S1, 5 malls described in input file
+S1, mall 0 = f, xloc =   6.3, yloc =  15.2, glam = 13.6, carp =  1.9
+S1, mall 1 = u, xloc =  17.5, yloc =   3.4, glam = 13.3, carp =  0.8
+S1, mall 2 = n, xloc =  -8.3, yloc =  -6.3, glam =  8.9, carp =  0.2
+S1, mall 3 = i, xloc = -11.5, yloc =  -1.5, glam = 16.3, carp =  0.3
+S1, mall 4 = y, xloc =   0.5, yloc =  -0.5, glam =  9.3, carp =  1.1
+
+S2, 250000 grid cells processed, each 0.010 km^2
+S2, mall f attracts  343.6 km^2 =  13.7% of city
+S2, mall u attracts  360.3 km^2 =  14.4% of city
+S2, mall n attracts   61.8 km^2 =   2.5% of city
+S2, mall i attracts  614.3 km^2 =  24.6% of city
+S2, mall y attracts  124.4 km^2 =   5.0% of city
+S2, no shopping for  995.6 km^2 =  39.8% of city
+
+S3,         +--------------------------------------------------+
+S3,  24.0km |                        fffffffffffffff           |
+S3,  22.0km |                      fffffffffffffffffff         |
+S3,  20.0km |                     fffffffffffffffffffff        |
+S3,  18.0km |                    fffffffffffffffffffffff       |
+S3,  16.0km |                    fffffffffffffffffffffff       |
+S3,  14.0km |          iiiiiii   fffffffffffffffffffffuuuuuuuu |
+S3,  12.0km |     iiiiiiiiiiiiiiiiffffffffffffffffffuuuuuuuuuuu|
+S3,  10.0km |  iiiiiiiiiiiiiiiiiiiifffffffffffffffuuuuuuuuuuuuu|
+S3,   8.0km | iiiiiiiiiiiiiiiiiiiiiiifffffffffffuuuuuuuuuuuuuuu|
+S3,   6.0km |iiiiiiiiiiiiiiiiiiiiiiiiyyyyfffffuuuuuuuuuuuuuuuuu|
+S3,   4.0km |iiiiiiiiiiiiiiiiiiiiiiiyyyyyyyyuuuuuuuuuuuuuuuuuuu|
+S3,   2.0km |iiiiiiiiiiiiiiiiiiiiiiyyyyyyyyyyuuuuuuuuuuuuuuuuuu|
+S3,   0.0km |iiiiiiiiiiiiiiiiiiiiiiyyyyyyyyyyuuuuuuuuuuuuuuuuuu|
+S3,  -2.0km |iiiiiiiiiiiiiiiiiiiiiiyyyyyyyyyyyuuuuuuuuuuuuuuuuu|
+S3,  -4.0km |iiiiiiiiiiiiiiiiinniiiiyyyyyyyyyyuuuuuuuuuuuuuuuuu|
+S3,  -6.0km |iiiiiiiiiiiiiinnnnnnnniiyyyyyyyy  uuuuuuuuuuuuuuuu|
+S3,  -8.0km |iiiiiiiiiiiiiinnnnnnnniiiiiyy        uuuuuuuuuuu  |
+S3, -10.0km |iiiiiiiiiiiiiinnnnnnnniiiii                       |
+S3, -12.0km | iiiiiiiiiiiiiiinnnnniiiii                        |
+S3, -14.0km |    iiiiiiiiiiiiiiiiiii                           |
+S3, -16.0km |       iiiiiiiiiiiii                              |
+S3, -18.0km |                                                  |
+S3, -20.0km |                                                  |
+S3, -22.0km |                                                  |
+S3, -24.0km |                                                  |
+S3,         +--------------------------------------------------+

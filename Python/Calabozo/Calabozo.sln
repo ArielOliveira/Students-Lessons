@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calabozo", "Calabozo\Calabozo.pyproj", "{CF4CE9EB-C9F2-499D-A980-EAC067A12B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4CE9EB-C9F2-499D-A980-EAC067A12B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4CE9EB-C9F2-499D-A980-EAC067A12B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E59C4C-7CAD-4CFC-A52A-700456EA00A8}
+	EndGlobalSection
+EndGlobal

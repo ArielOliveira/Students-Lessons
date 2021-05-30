@@ -1,0 +1,4 @@
+com\arielado\shaders\ShaderProgram.class
+com\arielado\shaders\StaticShader.class
+com\arielado\renderEngine\Loader.class
+com\arielado\renderEngine\DisplayManager.class

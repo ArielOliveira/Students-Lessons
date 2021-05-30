@@ -1,0 +1,12 @@
+TEAM
+Name, JHED:
+Waleed Aslam,  Waslam2
+Alex Vargas, avargas7
+Christopher Roybal, croybal1
+
+DESIGN
+This program is meant to implement the board game chess in C++, using object-oriented design (reference UML diagram). Inside the "Game" files, we encompass the board and game. Inside the "Board" files, we have a representation of a board and objects that represent chess pieces. The "Piece" files encompass an abstract base class for game pieces. All of the respective chess pieces belong to the "Piece" files. There are 6 pieces: pawn, king, queen, rook, bishop, knight. 
+
+COMPLETENESS
+Parts Incomplete: Display is not functioning properly as well as in_mate and in_stalemate 
+

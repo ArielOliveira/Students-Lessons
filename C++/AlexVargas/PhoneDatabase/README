@@ -1,0 +1,7 @@
+Alex Vargas, avargas7
+
+Instead of using a map, I defined two classes Contact and Database. The contact class members included the first and last names, as well as the 5 phone number types for each contact. The Database class included a vector where the actual Database is stored. The reason for which I took this approach is that I believed it would yield a "cleaner" main file, as the calls to fulfill the commands would not be accessing the key/value pairs of a map, rather they would be accessing the elements of the vector which were of type Contact, so we could then access the individual members as we needed. 
+
+
+
+

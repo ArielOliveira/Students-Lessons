@@ -1,0 +1,12 @@
+INPUT(
+./release\glslprogram.o
+./release\glutils.o
+./release\main.o
+./release\mainview.o
+./release\mainwindow.o
+./release\scenebasic.o
+./release\moc_mainview.o
+./release\moc_mainwindow.o
+./release\moc_mainview.o
+./release\moc_mainwindow.o
+);

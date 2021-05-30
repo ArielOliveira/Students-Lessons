@@ -1,0 +1,12 @@
+INPUT(
+./debug\glslprogram.o
+./debug\glutils.o
+./debug\main.o
+./debug\mainview.o
+./debug\mainwindow.o
+./debug\scenebasic.o
+./debug\moc_mainview.o
+./debug\moc_mainwindow.o
+./debug\moc_mainview.o
+./debug\moc_mainwindow.o
+);
